@@ -1,0 +1,1 @@
+# prisma-enable-printer
